@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499309565777",
+    "project_id": "rizegrupos",
+    "storage_bucket": "rizegrupos.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499309565777:android:ff17021a9642e915476570",
+        "android_client_info": {
+          "package_name": "com.rizegrupos"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499309565777-3s006dl0u983mb2lv6k92p97b0ols44t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvAlo6aVzWt5p0CBkDHJQGmgRhDo8zsA0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499309565777-3s006dl0u983mb2lv6k92p97b0ols44t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
