@@ -20,7 +20,7 @@ Pode ser criado até três grupos por usuário, caso deseje deletar, é simples,
 Clone the repository.
 
 ```bash
-git clone https://github.com/ribeiro-le/app-ReactPrime.git
+git clone https://github.com/ribeiro-le/RizeGrupos-app--react-native.git
 
 ```
 
