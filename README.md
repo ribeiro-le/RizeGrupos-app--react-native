@@ -1,6 +1,12 @@
 # Visualização
 
-# Aplicação rizegrupos
+
+https://user-images.githubusercontent.com/88807757/160320023-bf7cdce7-8a4e-4875-b20a-21d63559a4ea.mp4
+
+
+
+
+# Aplicação  RizeGrupos
 
 **React Native App - rizegrupos** using **Firebase**, **StyleSheet**, **React Navigation**
 
